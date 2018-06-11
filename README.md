@@ -12,13 +12,13 @@ Il vous est demandé de concevoir la maquette de l'application Ritz-Cahors perme
 * ETQ responsable, je valide/refuse une reservation
 * ETQ responsable, je créer une nouvelle réservation
 * ETQ responsable, je modifie une réservation
-* ETQ responsable, je supprimer une réservation
+* ETQ responsable, je supprime une réservation
 * ETQ client, je reçois un mail de validation de ma réservation
 
 Compétence : *Maquetter une application*
 
 ## Réalisation :
-**Durée :** 1 jours  
+**Durée :** 1 jour  
 **Groupe :** En solo
 
 ## Rendu (version papier et numérque) :
