@@ -18,9 +18,9 @@ Il vous est demandé de concevoir la maquette de l'application Ritz-Cahors perme
 Compétence : *Maquetter une application*
 
 ## Réalisation :
-**Durée :** 2 jours  
+**Durée :** 1 jours  
 **Groupe :** En solo
 
-## Rendu :
+## Rendu (version papier et numérque) :
 * Les maquettes d’écran de type wireframe
 * Le diagramme d’enchaînement des écrans formalisé avec un diagramme d’état ou d’activité UML
