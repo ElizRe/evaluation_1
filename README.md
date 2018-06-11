@@ -21,6 +21,6 @@ Compétence : *Maquetter une application*
 **Durée :** 1 jour  
 **Groupe :** En solo
 
-## Rendu (version papier et numérque) :
+## Rendu (version papier et numérique) :
 * Les maquettes d’écran de type wireframe
 * Le diagramme d’enchaînement des écrans formalisé avec un diagramme d’état ou d’activité UML
